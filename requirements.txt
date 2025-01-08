@@ -1,0 +1,10 @@
+streamlit
+numpy
+pandas
+scikit-learn
+datetime
+streamlit-echarts
+keras
+tensorflow
+pulp
+matplotlib
